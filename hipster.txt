@@ -1,6 +1,0 @@
-hello world
-this is my frst gt check in cide
-so version 1.0.1
-This is a minor version of the file
-hello
-Adding some more
